@@ -1,0 +1,14 @@
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\RemoteAcessServer.exe.config
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\RemoteAcessServer.exe
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\RemoteAcessServer.pdb
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\AForge.dll
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\AForge.Video.dll
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\AForge.xml
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\AForge.Video.xml
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\obj\Debug\RemoteAcessServer.csprojAssemblyReference.cache
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\obj\Debug\RemoteAcessServer.csproj.CoreCompileInputs.cache
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\obj\Debug\RemoteAcessServer.csproj.CopyComplete
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\obj\Debug\RemoteAcessServer.exe
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessServer\obj\Debug\RemoteAcessServer.pdb

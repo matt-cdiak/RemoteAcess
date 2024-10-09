@@ -1,0 +1,10 @@
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\bin\Debug\RemoteAcessClient.exe.config
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\bin\Debug\RemoteAcessClient.exe
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\bin\Debug\RemoteAcessClient.pdb
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.csprojAssemblyReference.cache
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.ViewerForm.resources
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.Properties.Resources.resources
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.csproj.GenerateResource.cache
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.csproj.CoreCompileInputs.cache
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.exe
+C:\Users\fe662\source\repos\RemoteAcess\RemoteAcessClient\obj\Debug\RemoteAcessClient.pdb
